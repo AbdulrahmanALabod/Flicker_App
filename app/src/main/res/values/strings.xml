@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Flicker App</string>
+    <string name="action_settings"> Search </string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="flicker_img_description">Empty String Value</string>
+    <string name="search_resorce">Youtube Fashone</string>
+    <string name="Empty_search">No photo match your search.  use search icon for search agine</string>
+<string-array name="Prevent_Word">
+    <item>sex</item>
+    <item>nudity</item>
+</string-array>
+</resources>
